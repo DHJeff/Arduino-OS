@@ -1,6 +1,6 @@
 {
   "className":  "ApplicationArduinoWizardSettings",
-  "name":       "Arduino Configuration Wizard",
+  "name":       "Configuration Wizard",
   "mime":       null,
   "icon":       "categories/applications-system.png",
   "category":   "utilities",

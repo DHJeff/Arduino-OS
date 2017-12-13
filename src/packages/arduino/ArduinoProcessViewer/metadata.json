@@ -1,6 +1,6 @@
 {
   "className":  "ApplicationArduinoProcessViewer",
-  "name":       "Arduino Process Viewer",
+  "name":       "Process Viewer",
   "mime":       null,
   "icon":       "apps/gnome-monitor.png",
   "category":   "arduino",

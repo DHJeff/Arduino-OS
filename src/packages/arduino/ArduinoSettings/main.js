@@ -298,12 +298,12 @@
 
     scheme.find(this, 'ButtonArduinoConfigureSettings').on('click', function() {
       callAPI('setsysinfo', {hostname: inputHostname.get('value'), timezone: selectTimezone.get('value')}, function() {
-        wm.notification({title: 'Arduino', message: "Restart the board to apply the board name and timezone changes.", icon: 'arduino.png', timeout : 30000});
+        wm.notification({title: 'whatsnext', message: "Restart the board to apply the board name and timezone changes.", icon: 'arduino.png', timeout : 30000});
       });
     });
     scheme.find(this, 'ButtonArduinoRestart').on('click', function() {
       callAPI('reboot', {}, function() {
-        wm.notification({title: 'Arduino', message: "Board is rebooting...", icon: 'arduino.png', timeout : 60000});
+        wm.notification({title: 'whatsnext', message: "Board is rebooting...", icon: 'arduino.png', timeout : 60000});
       });
     });
     scheme.find(this, 'ArduinoNetworkDevicePoll').on('click', function() {

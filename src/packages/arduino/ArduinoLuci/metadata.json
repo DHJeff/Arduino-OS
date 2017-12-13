@@ -1,6 +1,6 @@
 {
   "className":  "ApplicationArduinoLuci",
-  "name":       "Arduino Luci",
+  "name":       "Luci",
   "mime":       null,
   "icon":       "categories/applications-system.png",
   "category":   "arduino",
