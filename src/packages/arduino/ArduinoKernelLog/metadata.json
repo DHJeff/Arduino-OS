@@ -1,6 +1,6 @@
 {
   "className":  "ApplicationArduinoKernelLog",
-  "name":       "Arduino Kernel Log",
+  "name":       "Kernel Log",
   "mime":       null,
   "icon":       "apps/terminal.png",
   "category":   "arduino",

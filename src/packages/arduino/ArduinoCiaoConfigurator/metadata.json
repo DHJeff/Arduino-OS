@@ -1,6 +1,6 @@
 {
   "className":  "ApplicationArduinoCiaoConfigurator",
-  "name":       "Arduino Ciao Configurator",
+  "name":       "Ciao Configurator",
   "mime":       null,
   "icon":       "categories/applications-system.png",
   "category":   "arduino",
