@@ -1,6 +1,6 @@
 {
   "className":  "ApplicationArduinoSettings",
-  "name":       "Arduino Settings",
+  "name":       "Settings",
   "mime":       null,
   "icon":       "arduino-settings.png",
   "singular":   true,

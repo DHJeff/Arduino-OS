@@ -15,7 +15,7 @@
   },
 
   "client" : {
-    "Version" : "2.0.3-arduino-os",
+    "Version" : "2.0.3-whatsnext-desktop",
 
     "SettingsManager": {
       "Wizard": {
@@ -42,7 +42,7 @@
           "enabled": false
         },
         "root": {
-          "description": "Arduino Storage"
+          "description": "Storage"
         }
       }
     },
@@ -50,9 +50,9 @@
     "WM" : {
       "args": {
         "defaults": {
-          "icon"            : "arduino.png",
-          "wallpaper"       : "osjs:///themes/wallpapers/arduino-infinite-boards.jpg",
-          "backgroundColor" : "#ebebeb",
+          "icon"            : "osjs.png",
+          "wallpaper"       : "osjs:///themes/wallpapers/whatsnext.jpg",
+          "backgroundColor" : "#ffffff",
           "theme"           : "material",
           "icons"           : "default",
           "sounds"          : "default",

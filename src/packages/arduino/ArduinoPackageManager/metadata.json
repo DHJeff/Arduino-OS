@@ -1,6 +1,6 @@
 {
   "className":  "ApplicationArduinoPackageManager",
-  "name":       "Arduino Package Manager",
+  "name":       "Package Manager",
   "mime":       ["application\\/x\\-ipkg"],
   "icon":       "apps/update-manager.png",
   "singular":   true,

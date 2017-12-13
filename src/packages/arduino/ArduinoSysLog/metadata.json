@@ -1,6 +1,6 @@
 {
   "className":  "ApplicationArduinoSysLog",
-  "name":       "Arduino System Log",
+  "name":       "System Log",
   "mime":       null,
   "icon":       "apps/terminal.png",
   "category":   "arduino",
